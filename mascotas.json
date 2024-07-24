@@ -1,0 +1,44 @@
+[{
+    "id":1,
+    "nombre": "Joaquin",
+    "tipo":"Perro",
+    "estado": "Buscado",
+    "edad": 3,
+    "ubicadoEn": [{
+        "direccion":"Av. Mitre 750",
+        "localidad": "Avellaneda",
+        "fecha": "12/12/2023",
+        "hora": "12:23",
+        "ubicacion": "xxx",
+        "encontradoPor":"Juan",
+        "mail":"juan@gmail.com",
+        "redSocial":"@juan",
+        "telefono":"115039200"
+    },{
+        "direccion":"Av. Cabildo 750",
+        "localidad": "Avellaneda",
+        "Fecha": "11/2/2024",
+        "Hora": "12:26",
+        "encontradoPor":"Juan",
+        "mail":"juan@gmail.com",
+        "redSocial":"@juan",
+        "telefono":"115039200"
+    }],
+    "color":"Marron",
+    "color2": null,
+    "color3": null,
+    "color4": null
+},{
+    "id":2,
+    "nombre": "Fernando",
+    "tipo":"Gato",
+    "estado": "Buscado",
+    "edad": 6,
+    "ubicadoEn":[],
+    "color":"Blanco",
+    "color2": null,
+    "color3": null,
+    "color4": null
+}
+]
+      
